@@ -10,7 +10,7 @@ import {
   CloudLightning,
   Droplet,
   Maximize2, 
-  Users,
+  Users, 
   ZapOff,
   CheckCircle
 } from "lucide-react";
